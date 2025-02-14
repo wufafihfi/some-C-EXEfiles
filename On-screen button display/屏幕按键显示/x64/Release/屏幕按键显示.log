@@ -1,0 +1,185 @@
+﻿  ButtonMain.cpp
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(500,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(500,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(501,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(501,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(505,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(505,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(505,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(505,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(505,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(505,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(506,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(506,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(506,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(506,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(506,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(506,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(614,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(614,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(625,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(625,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(636,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(665,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\FH.h(723,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(27,9): warning C4005: “MCX”: 宏重定义
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(28,9): warning C4005: “MCY”: 宏重定义
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(35,9): warning C4005: “GetRValue”: 宏重定义
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(36,9): warning C4005: “GetGValue”: 宏重定义
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(37,9): warning C4005: “GetBValue”: 宏重定义
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(114,61): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(114,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(114,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(114,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(116,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(116,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(116,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(116,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(260,61): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(260,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(260,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(260,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(265,79): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(265,61): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(265,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(269,125): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(269,91): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(269,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(269,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(321,147): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(321,100): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(321,54): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(321,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(322,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(322,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(322,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(322,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(406,13): warning C4101: “time1”: 未引用的局部变量
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(447,34): warning C4101: “e”: 未引用的局部变量
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(450,30): warning C4101: “e”: 未引用的局部变量
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(532,71): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(532,77): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(532,83): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(532,89): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(572,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(573,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(574,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(575,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(576,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(577,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(760,41): warning C4244: “参数”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(899,49): warning C4244: “参数”: 从“unsigned __int64”转换到“double”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1042,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1050,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1137,83): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1137,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1137,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1137,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1201,102): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1201,87): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1201,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1201,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1203,46): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1203,46): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1203,80): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1203,80): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1203,108): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1203,108): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1203,142): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1203,142): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1208,127): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1208,93): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1208,65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1208,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1210,46): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1210,46): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1210,86): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1210,86): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1210,114): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1210,114): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1210,154): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1210,154): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1216,127): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1216,93): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1216,65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1216,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1218,46): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1218,46): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1218,86): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1218,86): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1218,114): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1218,114): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1218,154): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1218,154): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1224,127): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1224,93): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1224,65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1224,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1226,46): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1226,46): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1226,86): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1226,86): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1226,114): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1226,114): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1226,154): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1226,154): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1233,103): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1233,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1233,53): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1233,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1234,113): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1234,86): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1234,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1234,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1243,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1243,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1244,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1244,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1253,84): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1253,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1253,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1253,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1256,138): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1256,111): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1256,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1256,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1314,31): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1314,31): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1314,48): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1314,48): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1314,67): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1314,67): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1314,105): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1314,105): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1354,36): warning C4244: “参数”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1359,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1497,90): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1497,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1497,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1497,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1498,150): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1498,95): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1498,65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1498,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1499,175): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1499,110): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1499,75): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1499,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1500,135): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1500,86): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1500,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1500,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1501,95): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1501,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1501,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1501,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1502,110): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1502,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1502,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15280\source\repos\屏幕按键显示\屏幕按键显示\ButtonMain.cpp(1502,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  0 of 360 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  屏幕按键显示.vcxproj -> C:\Users\15280\source\repos\屏幕按键显示\x64\Release\屏幕按键显示.exe
